@@ -1,0 +1,30 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+
+    <!-- Garis miring pertama -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M4,20h3v-10h-3z"
+        android:rotation="-20"
+        android:pivotX="5.5"
+        android:pivotY="15"/>
+
+    <!-- Garis miring kedua -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M10,20h3v-12h-3z"
+        android:rotation="-20"
+        android:pivotX="11.5"
+        android:pivotY="14"/>
+
+    <!-- Garis miring ketiga -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M16,20h3v-14h-3z"
+        android:rotation="-20"
+        android:pivotX="17.5"
+        android:pivotY="13"/>
+</vector>
