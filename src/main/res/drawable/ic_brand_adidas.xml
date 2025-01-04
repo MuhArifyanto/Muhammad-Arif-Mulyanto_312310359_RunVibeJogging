@@ -1,0 +1,22 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="48"
+    android:viewportHeight="48">
+
+    <!-- First stripe -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M8,36 L14,24 L20,36 Z" />
+
+    <!-- Second stripe -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M18,36 L24,18 L30,36 Z" />
+
+    <!-- Third stripe -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M28,36 L34,12 L40,36 Z" />
+
+</vector>
