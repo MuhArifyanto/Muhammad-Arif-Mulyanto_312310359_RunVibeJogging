@@ -18,7 +18,7 @@
 
 ### ***Tampilan Halaman Home :***
 
-![home2](https://github.com/user-attachments/assets/45aa4eff-8818-45f1-93b0-852debc56965)
+![image](https://github.com/user-attachments/assets/c27fbe0e-af56-4f52-8597-ceec71a82d0f)
 
 ### ***Tampilan Halaman Deskripsi Barang :***
 
