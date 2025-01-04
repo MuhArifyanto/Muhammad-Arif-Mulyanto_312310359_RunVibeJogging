@@ -1,4 +1,0 @@
-<shape xmlns:android="http://schemas.android.com/apk/res/android">
-    <solid android:color="@color/gray" /> <!-- Menggunakan warna abu-abu dari colors.xml -->
-    <corners android:radius="16dp" /> <!-- Menentukan radius sudut untuk membulat -->
-</shape>
